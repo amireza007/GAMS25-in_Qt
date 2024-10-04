@@ -1,0 +1,3 @@
+C:/GAMS/win64/25.1/apifiles/C++/transport4/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Release/CMakeFiles/transport4.dir
+C:/GAMS/win64/25.1/apifiles/C++/transport4/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Release/CMakeFiles/ALL_BUILD.dir
+C:/GAMS/win64/25.1/apifiles/C++/transport4/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Release/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\GAMS\win64\25.1\apifiles\C++\transport4\transport4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\GAMS\win64\25.1\apifiles\C++\transport4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3523EFD8-F2F2-37BC-9FF2-5ED3B74878AD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

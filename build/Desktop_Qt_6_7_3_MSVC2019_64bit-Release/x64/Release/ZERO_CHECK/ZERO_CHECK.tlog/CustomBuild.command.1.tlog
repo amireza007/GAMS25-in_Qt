@@ -1,0 +1,10 @@
+^C:\GAMS\WIN64\25.1\APIFILES\C++\TRANSPORT4\BUILD\DESKTOP_QT_6_7_3_MSVC2019_64BIT-RELEASE\CMAKEFILES\C6AB0E2E9329CBB0ADF48AB6B733C69F\GENERATE.STAMP.RULE
+setlocal
+C:\Qt\Tools\CMake_64\bin\cmake.exe -SC:/GAMS/win64/25.1/apifiles/C++/transport4 -BC:/GAMS/win64/25.1/apifiles/C++/transport4/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Release --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/GAMS/win64/25.1/apifiles/C++/transport4/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Release/transport4.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
